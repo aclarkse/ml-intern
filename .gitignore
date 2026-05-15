@@ -71,5 +71,7 @@ datasets/
 models/
 checkpoint-*/
 runs/
+!eval-logs/q1-autointerp/runs/
+!eval-logs/q1-autointerp/runs/**
 wandb/
 frontend/tsconfig.tsbuildinfo

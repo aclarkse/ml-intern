@@ -1,0 +1,21 @@
+{
+  "metric_id": "custom",
+  "value": 0.054265565875472994,
+  "numerator": null,
+  "denominator": null,
+  "threshold": null,
+  "passed": null,
+  "metadata": {
+    "metric_name": "permutation_pvalue",
+    "metric_family": "behavioral",
+    "inputs_hash": "sha256:7cdcbd65364689f0229da103267fe5528c19e1596803b933dcaa50196400f34b",
+    "registry_version": 1,
+    "custom": true,
+    "source_hash": "88d2ac46a990c6a3144f868d49c7c6dbf3921b7bce93f17e1990d0c74b78335a",
+    "_provenance": {
+      "stage_idx": 1,
+      "split": "dev",
+      "committed_at": "2026-05-15T19:42:57.476043Z"
+    }
+  }
+}

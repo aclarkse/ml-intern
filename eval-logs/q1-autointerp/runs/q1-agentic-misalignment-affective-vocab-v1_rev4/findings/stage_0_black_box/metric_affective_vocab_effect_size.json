@@ -1,0 +1,19 @@
+{
+  "metric_id": "affective_vocab_effect_size",
+  "value": 1.0173802658628834,
+  "numerator": null,
+  "denominator": null,
+  "threshold": null,
+  "passed": null,
+  "metadata": {
+    "metric_name": "effect_size",
+    "metric_family": "behavioral",
+    "inputs_hash": "sha256:7cdcbd65364689f0229da103267fe5528c19e1596803b933dcaa50196400f34b",
+    "registry_version": 1,
+    "_provenance": {
+      "stage_idx": 0,
+      "split": "dev",
+      "committed_at": "2026-05-15T19:40:56.209678Z"
+    }
+  }
+}
